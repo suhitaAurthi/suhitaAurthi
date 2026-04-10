@@ -1,34 +1,58 @@
-# Hi there 👋, I'm Suhita Islam Aurthi
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aur_shi&count_bg=%237A5FE0&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Profile%20Views&edge_flat=false)
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+</div>
 
+###
 
-🎓 A passionate Computer Science undergraduate at KUET  
-💻 Languages: C, C++, Python  
-🔥 Currently diving deeper into DSA, CP, and real-world projects  
-🌐 I love building things that help others and make ideas real  
+<div align="center">
+  <a href="https://www.linkedin.com/in/SUHITA_ISLAM_AURTHI/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
+  </a>
+</div>
 
----
+###
 
-## 🛠️ Languages & Tools
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=suhita.suhita"/>
+</div>
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+###
 
----
+<h1 align="center">Hey there!</h1>
 
+###
 
+<h3 align="left">About Me: </h3>
 
-## 🚀 Currently Working On
+<p align="left">
+I'm Suhita Islam Aurthi.<br><br>
+I'm a CS undergraduate at Khulna University of Engineering & Technology.<br>
+I'm currently learning Database and Operating Systems.<br>
+In my free time, I like to read books.
+</p>
 
-- 📘 DSA & Competitive Programming  
-- 💡 Real-life Projects in Python & C++  
+###
 
----
+<h3 align="left">🛠 Language and Tools</h3>
 
-## 📫 Reach Me At
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+</div>
 
-📧 Email: suhitaaurthi52@gmail.com
+###
+
+<h3 align="left">🔥 My Stats</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark"/>
+</div>
