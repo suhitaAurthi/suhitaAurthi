@@ -18,11 +18,11 @@
 
 ###
 
-<h1 align="center">Hey there!</h1>
+<h1 align="center">Hey there! 👋</h1>
 
 ###
 
-<h3 align="left">About Me: </h3>
+<h3 align="left">👤 About Me</h3>
 
 <p align="left">
 I'm Suhita Islam Aurthi.<br><br>
@@ -33,7 +33,11 @@ In my free time, I like to read books.
 
 ###
 
-<h3 align="left">🛠 Language and Tools</h3>
+<h3 align="left">🧰 Languages and Tools</h3>
+
+###
+
+<h4 align="left">💻 Programming Languages</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
@@ -41,18 +45,60 @@ In my free time, I like to read books.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 </div>
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
+<h4 align="left">🖥️ Frontend Development</h4>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+</div>
+
+###
+
+<h4 align="left">⚙️ Backend Development</h4>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+</div>
+
+###
+
+<h4 align="left">📱 Mobile Development</h4>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>
+</div>
+
+###
+
+<h4 align="left">🗄️ Database</h4>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
+</div>
+
+###
+
+<h4 align="left">🛠️ Tools</h4>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+</div>
+
+###
+
+<h3 align="left">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark"/>
+  <img src="https://streak-stats.demolab.com?user=aur_shi&theme=dark"/>
 </div>
